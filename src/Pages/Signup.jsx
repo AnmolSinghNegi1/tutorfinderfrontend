@@ -20,7 +20,7 @@ const Signup = () => {
   const handleSubmit =  async (e) => {
       e.preventDefault();
       try {
-        const response = await fetch('https://tutorfinderbackend-5wuz.vercel.app/api/v1/signup', {
+        const response = await fetch('https://tutorfinderbackend.onrender.com/api/v1/signup', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
