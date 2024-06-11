@@ -11,7 +11,7 @@ const data = [
         id : 2,
         name : "Achievers Academy",
         Qualification : "B.TECH IT" ,
-        Address : "284/5,Dakoha,RamaMandi, Jalandhar", 
+        Address : "57/1,Dakoha,RamaMandi, Jalandhar", 
         Contact  : "8427874468 "
  
      },
@@ -19,32 +19,33 @@ const data = [
         id : 3,
         name : "Success Point",
         Qualification : "B.TECH IT" ,
-        Address : "H.NO-284/5,Sainik Vihar,RamaMandi, Jalandhar", 
-        Experience : "5 years in BSF School "
+        Address : "97/7,Ajit Vihar, Jalandhar", 
+        Experience : "6 years of experience  teaching physics",
+          Contact  : "9847874468"
  
      },
      {
         id : 4,
         name : "Amrit Academy ",
-        Qualification : "B.TECH IT" ,
-        Address : "H.NO-284/5,Sainik Vihar,RamaMandi, Jalandhar", 
-        Experience : "5 years in BSF School "
- 
+        Qualification : "B.TECH IT,M.TECH Physics  " ,
+        Address : "H.NO-284/5,Sainik Vihar, Jalandhar", 
+        Experience : "2 years of experience in teaching physics  "
+
      },
      {
         id : 5,
         name : "Tutor Point ",
         Qualification : "BSC COMPUTER SCIENCE  MSC CHEMISTRY " ,
-        Address : "H.NO-284/5,Sainik Vihar,RamaMandi, Jalandhar", 
+        Address : "61/5,Karol Bagh, Jalandhar", 
         Experience : "10 years Experience of teaching physics and chemistry ",
         image : "sample.jpg",
      },
      {
         id : 6,
-        name : "Anmol",
-        Qualification : "B.TECH IT" ,
-        Address : "H.NO-284/5,Sainik Vihar,RamaMandi, Jalandhar", 
-        Experience : "5 years in BSF School "
+        name : "A1 Coaching Classes ",
+        Qualification : "BSC Physics Msc Physics " ,
+        Address : "301/9,Adarsh Nagar , Jalandhar", 
+        Experience : "3 years of experience in teaching Physics "
  
      },
 
